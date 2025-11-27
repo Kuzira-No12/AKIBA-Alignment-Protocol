@@ -59,6 +59,6 @@ Commercial use requires permission.
 
 
 ---
-
-✍ Author: **Kuzira No.12**  
-🧪 Status: **Experimental / Ongoing**
+First Published: 2025-11-27 (UTC)
+Author / Original Discoverer: Kuzira-No12
+Status: Early Research / Phenomenon Documentation
