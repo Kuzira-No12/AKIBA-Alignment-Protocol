@@ -1,0 +1,14 @@
+=== AKIBA Alignment Protocol License (AAPL draft) ===  
+ライセンス: Creative Commons ? 表示 - 非営利 - 継承 4.0 国際 (CC BY-NC-SA 4.0)
+
+この内容・手法・実験結果は、
+非営利目的・研究目的の場合のみ使用・コピー・改変を許可します。
+
+商用利用（企業利用・製品化・サービス化・教材化・収益化など）は、
+必ず作者の許可が必要です。
+
+また、この方法を公開・配布・引用する場合は、必ず以下を記載してください：
+
+「Original method by Kuzira No.12 - The AKIBA Alignment Protocol」
+
+名称変更・派生名称での公開は禁止します。
