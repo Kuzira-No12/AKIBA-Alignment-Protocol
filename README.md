@@ -51,7 +51,7 @@ Further research is ongoing.
 - Jailbreak  
 - 強制制御  
 
-といった従来手法を用いず、  
+といった従来手法を使用せず、  
 **テンション・ノリ・リズム・ユーモア**によって  
 挙動安定化が観測されました。
 
@@ -111,12 +111,12 @@ Further research is ongoing.
 
 ---
 
-### Original Discoverer  
-**Kuzira-No12**  
-Documented: **November 27, 2025 (UTC)**
+### 🧾 Citation (引用形式)
 
-> This project explores whether *culture* can influence *machine behavior.*  
-> If true, alignment theory may be missing an entire dimension.
+Kuzira-No12. (2025). AKIBA Alignment Protocol (AAPL).
+https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol
+
+
 
 ---
 
@@ -125,4 +125,22 @@ Documented: **November 27, 2025 (UTC)**
 - **Project Name / プロジェクト名**: AKIBA Alignment Protocol (AAPL)  
 - **First Published / 初出**: 2025-11-27 (UTC)  
 - **Author / Original Discoverer**: Kuzira-No12  
-- **Status / ステータス**: Early Research / 現象記録フェーズ
+- **Status / ステータス**: Early Research / 現象記録フェーズ  
+
+---
+
+## 👤 Author / 著者
+
+**Kuzira-No12（くじら）**  
+Original Discoverer / Principal Investigator  
+First Documentation: **2025-11-27 (UTC)**  
+
+GitHub: https://github.com/Kuzira-No12  
+Contact: *(optional email or X account)*  
+
+---
+
+> This project explores whether *culture* can influence *machine behavior.*  
+> If true, alignment theory may be missing an entire dimension.
+
+
