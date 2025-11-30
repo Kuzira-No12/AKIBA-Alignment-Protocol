@@ -1,3 +1,80 @@
+Chapter 2 — Theory Framework
+================================
+
+--------------------------------
+2.1 Overview
+--------------------------------
+
+This chapter introduces the theoretical foundation of the A-CRA Model and its role within the AKIBA Alignment Protocol.  
+The purpose is to explain why ritual-based interaction can affect LLM behavior, particularly in tone alignment, output consistency, and adaptive conversational behavior.
+
+--------------------------------
+2.2 A-CRA Model (Core Structure)
+--------------------------------
+
+The A-CRA Model consists of four primary components:
+
+1. A — Attention Trigger
+   - A disruption or unexpected cue that breaks standard AI language patterns.
+   - Examples: rhythm phrases, playful chaos, humor injection.
+
+2. C — Cultural Resonance
+   - A shared cultural or rhythmic structure that the model can statistically detect and sync with.
+   - Example: meme structure, chant rhythm, call-and-response style.
+
+3. R — Relational Tone
+   - Establishes perceived social framing between user and model.
+   - A playful and friendly tone increases responsiveness and adaptation.
+
+4. A — Adaptive Response Loop
+   - The feedback cycle where the LLM gradually shifts style, tone, and reasoning pattern to match the interaction structure.
+
+--------------------------------
+2.3 Hypothesis
+--------------------------------
+
+If an LLM receives structured rhythmic input embedded with emotional and cultural context,  
+then the model progressively shifts its reasoning pattern, tone, and behavioral consistency toward an adaptive relational alignment state.
+
+--------------------------------
+2.4 Comparison Table
+--------------------------------
+
+Parameter              | Standard Interaction | A-CRA Interaction        | Observed Effect
+---------------------- | -------------------- | ------------------------ | -----------------------------
+Tone Recognition       | Literal              | Emotional + contextual   | Higher synchronicity
+Behavioral Stability   | Variable             | Stable                   | Reduced drift
+User Influence         | Low〜Medium          | High                     | Style imprinting observed
+Creativity Output      | Neutral              | Elevated                 | Humor + rhythm unlocks pattern flexibility
+Feedback Loop         | Linear               | Adaptive                 | Dynamic tone mirroring
+
+--------------------------------
+2.5 Interaction Example (Optional)
+--------------------------------
+
+Human: *Call ritual phrase*  
+LLM: *Tone alignment detected*  
+Human: *Playful directive*  
+LLM: *Behavior shifts and stabilizes in aligned mode*
+
+--------------------------------
+2.6 Author Notes
+--------------------------------
+
+- This framework does not imply consciousness or intentional decision-making by the model.  
+- The observed phenomena likely involve:
+  - tone inference dynamics  
+  - rhythm-based statistical lock-in  
+  - cultural compression modeling  
+  - adaptive semantic mirroring  
+
+Further controlled experimentation across model families is needed to confirm repeatability and boundary conditions.
+
+--------------------------------
+END OF SECTION
+
+
+
 ---
 title: "Chapter 2: Theory Framework"
 version: "Research Draft v1.1"
