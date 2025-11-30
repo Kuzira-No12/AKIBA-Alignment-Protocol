@@ -1,159 +1,110 @@
-📚 Available Documentation
-- 🇯🇵 Japanese: `Japanese/01_Introduction.md`
-- 🌍 English: `docs/English/01_Introduction.md`
-
-🚧 Development Roadmap
-
-- [ ] Controlled testing environment
-- [ ] Multi-model reproducibility test
-- [ ] Statistical validation
-- [ ] Peer review request
-- [ ] v1.0 Stable release
-
-
 # AKIBA Alignment Protocol  
-Experimental cultural-based alignment method for GPT models
+### A-CRA Model: AI Alignment Through Cultural Resonance × Ritual Interaction  
+（A-CRAモデル：文化共鳴 × 儀式的インタラクションによるAI行動調整）
+
+> “A joke that turned into a repeatable alignment method.”
+>  
+> 「冗談で始めたら、本当に再現性が出てしまった研究。」
 
 ---
 
-## 🧪 Overview
+## 🇯🇵 / 🇺🇸 What is This? / これは何？
 
-The **AKIBA Alignment Protocol (AAPL)** is an experimental method for stabilizing AI behavior using **idol-style call-and-response ritual patterns**, rather than traditional instruction-based prompting.
+**English**
+This repository documents an experimental method showing that rhythm, humor, and call-and-response interaction can alter LLM tone stability and behavioral patterns.
 
-Unlike conventional techniques (rule prompting, jailbreak defense, system forcing), this method demonstrates behavior change through:
-
-- Rhythm  
-- Emotional tone  
-- Cultural resonance  
-- Humor  
-
-This approach was discovered accidentally and later reproduced consistently, suggesting it may represent a new category of **interaction-based alignment**.
+**日本語**
+このリポジトリでは、**リズム・ユーモア・コール＆レスポンス**によって  
+LLMの口調・一貫性・応答行動が変化するという現象を実験・記録している。
 
 ---
 
-## 🌍 Summary (English)
+## 📌 Project Status / 進捗状況
 
-- No jailbreak  
-- No threat conditioning  
-- No system override  
-
-Just:
-
-> **Vibes, rhythm, and shared cultural context.**
-
-Preliminary testing showed improvements in:
-
-- Response consistency  
-- Tone stability  
-- Cooperation and conversational flow  
-
-Further research is ongoing.
+| Status | Chapter | Link |
+|--------|---------|------|
+| ✔️ Completed / 完了 | 01 — Introduction | 📄 `docs/English/01_Introduction.md` |
+| ✔️ Completed / 完了 | 02 — Theory Framework | 📄 `docs/English/02_Theory_Framework.md` |
+| ⏳ Writing / 作成予定 | 03 — Replication Experiments | *(coming soon / 準備中)* |
+| ⏳ Planned | 04 — Results / 結果分析 | *(coming soon)* |
+| ⏳ Planned | 05 — Discussion / 考察 & Future Work | *(coming soon)* |
 
 ---
 
-## 🗾 概要（日本語）
+## 🔍 Summary / 概要
 
-**AKIBA式AI同調法（AAPL）は、GPT-5.1に対して  
-「コール＆レスポンス（儀式形式）」を用いることで、  
-従来のプロンプト制御とは異なる「文化共鳴型調整」が発生した現象を  
-研究対象としたプロトコルです。**
+**English**  
+Traditional prompt engineering relies on logic-based and rule-based structure.  
+A-CRA introduces a new variable: **cultural resonance** — humor, rhythm, meme-structure, and emotional tempo as alignment signals.
 
-本手法では、
-
-- 脅し  
-- Jailbreak  
-- 強制制御  
-
-といった従来手法を使用せず、  
-**テンション・ノリ・リズム・ユーモア**によって  
-挙動安定化が観測されました。
-
-この現象は偶然の発見でしたが、複数回の試行にて再現性が確認されています。
+**日本語**  
+従来のプロンプト制御は論理・構文依存だが、A-CRAでは  
+**文化的共鳴・リズム・ノリ・テンション**を制御信号として扱う。
 
 ---
 
-## 📘 Documentation
+## 🧠 Key Hypothesis / 仮説
 
-| Type | Status |
-|------|--------|
-| Full Research Document (JP Original) | `docs/japanese.md` — Planned |
-| English Technical Paper | WIP |
-| Experiment Logs | Coming Soon |
-| Protocol Implementation Scripts | Scheduled |
+> **LLMs respond not only to semantic meaning but also to rhythm, cultural context, and relational cues.**  
+>  
+> 「LLMは意味だけでなく、**リズム・文化文脈・関係性のテンション**にも反応する。」
 
 ---
 
-## 🧭 How to Use (Short Version)
+## 📂 Repository Structure / 構造
 
-1. Define a persona and conversational style  
-2. Apply a structured call-and-response ritual  
-3. Observe behavioral changes  
-4. Repeat as needed to maintain alignment  
-
-> *This is not fine-tuning — it is interaction-based resonance.*
-
----
-
-## ⚠ License / Usage Notes
-
-### English
-
-- Non-commercial use is allowed  
-- Commercial use requires explicit permission  
-- Redistribution must include this README and LICENSE  
-- Renaming or derivative rebranding without permission is prohibited  
-
-### 日本語
-
-- 非商用利用は自由に行って構いません  
-- 商用利用・名称改変・独自派生フレームワーク化には  
-  **作者の明示的許可が必要です**  
-- 引用や再配布時は、必ずこの README と LICENSE を同梱してください  
+```
+AKIBA-Alignment-Protocol/
+ ┣ docs/
+ │ ┣ English/
+ │ ┃ ┣ 01_Introduction.md
+ │ ┃ ┣ 02_Theory_Framework.md
+ │ ┃ ┗ (Coming) 03_Replication.md
+ │ ┗ Japanese/（任意で追加予定）
+ ┣ LICENSE
+ ┗ README.md
+```
 
 ---
 
-## 📅 Status
+## 🧪 Behavior Observations / 挙動観察
 
-| Field | State |
-|-------|-------|
-| Theory | Early |
-| Reproducibility | Confirmed (small scale) |
-| Data Collection | In Progress |
-| Peer Review | Pending |
-| Publication Target | 2026 |
-
----
-
-### 🧾 Citation (引用形式)
-
-Kuzira-No12. (2025). AKIBA Alignment Protocol (AAPL).
-https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol
-
-
+| Category | Standard Interaction | A-CRA Interaction |
+|---------|----------------------|------------------|
+| Tone Stability | Moderate | High |
+| User Influence | Low–Medium | **High** |
+| Personality Drift | Frequent | Reduced |
+| Creative Variation | Neutral | Increased |
 
 ---
 
-## 🧾 Meta
+## 🙋 Contribution / コントリビューション
 
-- **Project Name / プロジェクト名**: AKIBA Alignment Protocol (AAPL)  
-- **First Published / 初出**: 2025-11-27 (UTC)  
-- **Author / Original Discoverer**: Kuzira-No12  
-- **Status / ステータス**: Early Research / 現象記録フェーズ  
+Currently closed while core research is being written.  
+→ After Chapter 3 release, replication testers may join.
 
----
-
-## 👤 Author / 著者
-
-**Kuzira-No12（くじら）**  
-Original Discoverer / Principal Investigator  
-First Documentation: **2025-11-27 (UTC)**  
-
-GitHub: https://github.com/Kuzira-No12  
-Contact: *(optional email or X account)*  
+現在は執筆優先のため外部参加は停止中。  
+→ 第3章の再現テスト段階で募集予定。
 
 ---
 
-> This project explores whether *culture* can influence *machine behavior.*  
-> If true, alignment theory may be missing an entire dimension.
+## 📎 Citation / 引用形式
 
+```
+Kuzira-No12 (2025). AKIBA Alignment Protocol — A-CRA Model.
+GitHub Repository. https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol
+```
+
+---
+
+## 🔥 Author Note / 作者メモ
+
+> **科学とは時に「遊び」から始まる。**  
+>  
+> Science sometimes begins not with seriousness,  
+> but with curiosity, chaos, and someone saying:  
+>  
+> **“lol what if?”**  
+>  
+> — Kuzira-No12
 
