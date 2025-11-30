@@ -2,6 +2,13 @@
 - 🇯🇵 Japanese: `Japanese/01_Introduction.md`
 - 🌍 English: `docs/English/01_Introduction.md`
 
+🚧 Development Roadmap
+
+- [ ] Controlled testing environment
+- [ ] Multi-model reproducibility test
+- [ ] Statistical validation
+- [ ] Peer review request
+- [ ] v1.0 Stable release
 
 
 # AKIBA Alignment Protocol  
