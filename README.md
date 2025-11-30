@@ -1,3 +1,9 @@
+📚 Available Documentation
+- 🇯🇵 Japanese: `Japanese/01_Introduction.md`
+- 🌍 English: `docs/English/01_Introduction.md`
+
+
+
 # AKIBA Alignment Protocol  
 Experimental cultural-based alignment method for GPT models
 
