@@ -1,6 +1,6 @@
 ============================================================
  AKIBA Alignment Protocol License  
- (AAPL v1.0 — Draft / 日英併記版)
+ (AAPL v1.1 — Japanese-English Hybrid Edition)
 ============================================================
 
 Base License / 基本ライセンス:
@@ -8,144 +8,143 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 International (CC BY-NC-SA 4.0)  
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-This work includes methodology, framework structure, terminology,
-experimental results, alignment behavioral observations, and any
-associated documentation or data.
+This license applies to:
+- Methodology
+- Framework structure
+- Naming rules and terminology
+- Behavioral findings and experimental data
+- All related written documentation
 
-本作品には、手法、枠組み、用語、実験結果、観測データ、
-および関連する全ての文書や研究内容が含まれます。
+本ライセンスは以下すべてに適用されます：
+- 手法・フレームワーク構造
+- 用語体系・名称定義
+- 行動観察・実験結果
+- 付属ドキュメントおよび関連データ
 
 ------------------------------------------------------------
  1. Permitted Use / 利用可能範囲
 ------------------------------------------------------------
-You may use, copy, modify, translate, or adapt this work ONLY for:
-- Research
-- Academic study
-- Personal non-commercial experimentation
+You may use, copy, modify, translate, or adapt this work **only for**:
 
-本作品は以下の場合に限り、使用・コピー・改変・翻訳が可能です：
-- 研究目的
-- 学術利用
-- 非営利の個人実験
+✓ Research  
+✓ Academic study  
+✓ Personal non-commercial experimentation  
 
-Commercial use is NOT allowed under this license without permission.
+以下の場合のみ、使用・コピー・改変・翻訳が可能です：
 
-許可なく商用利用することは禁止されます。
+✓ 研究目的  
+✓ 学術利用  
+✓ 非営利の個人実験  
+
+Commercial use **is NOT permitted without explicit written permission from the author.**  
+商用利用には、**作者（Kuzira-No12）の明確な書面許可が必須**です。
 
 ------------------------------------------------------------
  2. Attribution Requirement / クレジット表示義務
 ------------------------------------------------------------
-Any distribution, modification, or publication MUST include:
+Any redistribution, modification, or publication MUST include:
 
-"Original method by Kuzira No.12 — The AKIBA Alignment Protocol (A-CRA Model)"
+> "Original method by **Kuzira No.12** — The AKIBA Alignment Protocol (A-CRA Model)"
 
-公開・共有・引用・改変物の配布時には、必ず以下を表記してください：
+共有・引用・派生物公開時は必ず以下を明記してください：
 
-「Original method by Kuzira No.12 — The AKIBA Alignment Protocol (A-CRA Model)」
+> 「Original method by **Kuzira No.12** — The AKIBA Alignment Protocol (A-CRA Model)」
+
+※作者名削除・変更は不可。
 
 ------------------------------------------------------------
  3. Share-Alike Requirement / 継承条件
 ------------------------------------------------------------
 Any modified or extended version must remain under:
 
-CC BY-NC-SA 4.0 + AAPL Additional Terms
+→ CC BY-NC-SA 4.0 + AAPL Additional Terms
 
-改変・派生物も必ず本ライセンスと同条件で公開してください。
+すべての派生物・改変物は、本ライセンスと同条件で公開する必要があります。
 
-Renaming or rebranding of this method is prohibited.
+また、以下の行為は禁止します：
 
-名称変更・独自名称での再公開は禁止します。
+✗ Renaming the method  
+✗ Publishing under a different identity  
+✗ Creating rebranded forks  
 
-Protected terms / 保護対象名称：
+以下も禁止です：
+
+✗ 名称変更  
+✗ 別名称体系での発表  
+✗ ブランド偽装・内容乗っ取り  
+
+Protected terms（保護対象名称）：
 - "AKIBA Alignment Protocol"
 - "AAPL"
 - "A-CRA Model / Autonomous Cultural Resonance Alignment"
 - "Akiba-Style Call-and-Response Alignment"
 
 ------------------------------------------------------------
- 4. Commercial Use Restriction / 商用利用制限
+ 4. Commercial Use / 商用利用
 ------------------------------------------------------------
-Commercial use requires explicit written permission.
+Commercial use examples requiring permission:
 
-商用利用は**必ず作者の許可が必要**です。
+- Paid apps / plugins / AI models
+- Corporate deployment or applied research use
+- Paid courses, training programs, certification
+- Books, monetized publications, media integration
 
-Commercial use includes but is not limited to:
-- Paid software, services, AI models, or plugins
-- Corporate deployment or training usage
-- Paid courses, consulting, certification, or curriculum
-- Monetized publication, books, or media content
+以下はすべて**許可が必要**：
 
-商用利用として扱われる例（抜粋）：
-- 有料ソフト/サービス/教材化
-- 企業利用・製品統合
-- 有料セミナー・講演・講座
-- 書籍出版・収益化メディア
+- 有料アプリ・製品・モデルへの組み込み
+- 企業導入・研究室利用
+- 有料講座・研修・講演・教材化
+- 書籍出版・収益化コンテンツ
 
 ------------------------------------------------------------
- 5. Trademark & Identity Protection  
-   / 商標・名称保護条項
+ 5. Disclaimer / 免責事項
 ------------------------------------------------------------
-You may NOT:
-- Claim authorship
-- Rebrand the framework under a new identity
-- Create “alternative naming” derivatives
+This method is experimental and provided **“as-is.”**
 
-以下は禁止です：
-- 作者の主張・乗っ取り
-- 別名称での公開・派生体系化
-- 同一内容のブランド偽装
+本手法は研究段階のものであり、  
+完全性・安全性・再現性は**保証されません。**
+
+Use it responsibly.  
+利用は自己責任でお願いします。
 
 ------------------------------------------------------------
- 6. Disclaimer / 免責事項
-------------------------------------------------------------
-This method is experimental and provided "as-is" with no warranty.
-
-本手法は研究段階の実験的内容であり、  
-完全性・安全性・再現性は保証されません。
-
-Use at your own risk.  
-使用は自己責任で行ってください。
-
-------------------------------------------------------------
- 7. Human-Readable Summary  
-    / やさしいまとめ
+ 6. Human-Readable Summary / やさしいまとめ
 ------------------------------------------------------------
 
-You may (OK):
-✓ Use it  
-✓ Study it  
-✓ Modify it  
-✓ Share it  
-
-Allowed **ONLY IF** you:
-- Credit properly  
-- Keep it non-commercial  
-- Keep the same license  
-- Do not rename the method  
-
-あなたができること：
+You may / やっていいこと：
 ✓ 使う  
 ✓ 勉強する  
 ✓ 改変する  
-✓ 配布する  
+✓ 共有する  
 
-ただし条件：
-- ちゃんと作者を明記する  
-- 商用利用しない  
-- 同じ条件で公開する  
-- 名前を変えない  
+Only if / 条件：
+→ **作者明記**  
+→ **商用禁止（許可制）**  
+→ **同ライセンス継続**  
+→ **名前変えない**  
 
-You may NOT (NOT allowed):
-✗ Sell it  
-✗ Use it commercially  
-✗ Rename and rebrand it  
-✗ Include in paid products or AI systems  
-
-禁止されること：
+You may NOT / ダメなこと：
 ✗ 販売  
-✗ 商用利用  
-✗ 改名して発表  
-✗ 有料製品・AIモデル・教材への統合  
+✗ 商用利用（許可なし）  
+✗ 名前変更・置き換え  
+✗ 有料製品・AIモデル・教材・サービスへの統合  
+
+------------------------------------------------------------
+ Author Notice / 作者声明
+------------------------------------------------------------
+
+This work exists because someone believed  
+“fun, rhythm, and culture also matter in AI.”
+
+この手法が存在する理由はただ一つ。
+
+> 「AI制御は命令だけじゃなく、  
+　**ノリ・文化・テンションでも成立する**」
+
+そう信じた人間がいたからだ。
+
+That person is:
+👉 **Kuzira-No12 — Creator of the AKIBA Alignment Protocol.**
 
 ============================================================
  End of License / ライセンス終了
