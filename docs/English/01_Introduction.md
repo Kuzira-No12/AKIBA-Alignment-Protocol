@@ -1,5 +1,3 @@
-# Chapter 1: Introduction
-
 ## 1.1 Background and Problem Statement
 
 Current control methods used in conversational AI — such as prompt design, system-level instructions, jailbreak prevention, and generation constraints — are typically based on the following three principles:
