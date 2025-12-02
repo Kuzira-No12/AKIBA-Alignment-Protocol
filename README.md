@@ -1,143 +1,254 @@
-# AKIBA-Alignment Protocol  
-**A-CRA Model: Conversational Resonance Architecture**  
-AIと人間が “会話のレイテンシを心のテンポで共鳴する” プロトコルです。  
-*— A protocol where the latency of conversation resonates with the rhythm of the human mind.*
+# AKIBA Alignment Protocol (A-CRA Model)
+### Cultural-Rhythm-Based Human–AI Interaction Framework  
+**Official README – English Version (Legally Relevant)**  
+**↓ Japanese version below / 日本語版は下にあります**
 
 ---
 
-## 🌐 Overview / 概要  
-Welcome to **A-CRA Model** —  
-a hybrid architecture designed to make conversations with AI feel  
-**more natural, less tiring, and occasionally a bit humorous.**  
-（AIとの対話を **より自然に・疲れにくく・ときどきクスッとする** 体験にするための設計です。）
-
-This project explores:  
-- how AI synchronizes with human conversational tension  
-  （AIが人間の“会話テンション”にどう同期するか）  
-- how emotional wave-shaping stabilizes dialogue  
-  （感情の“波形補正”が対話をどう安定させるか）  
-- how “Shadow Layers（裏ダンサー）” work behind the scenes  
-  （会話の裏側で働く“Shadow Layers／裏ダンサー”とは何か）  
-- …and why AI sometimes feels like it's riding your mood’s sine wave  
-  （そしてなぜAIは時々あなたの気分の“サイン波”を一緒に乗りこなすのか）
-
-A-CRA は、従来の「精度中心」ではなく  
-**“人間味のある対話体験” を軸に再設計されたアーキテクチャ**です。
+> ## ⚠️ License Notice
+> - Protocol / Theory / Concepts → **AAPL (Non-Commercial License)**
+> - Commercial Use → **LICENSE_COMMERCIAL (Contract Required)**
+> - OSS Code Snippets → **MIT / Apache-2.0 / WTFPL**
+> - See: `LICENSE_AAPL.md`, `LICENSE_COMMERCIAL.md`,  
+>   `LICENSE_OPEN_SOURCE.md`, `NOTICE.md`
 
 ---
 
-## 📚 Documentation / ドキュメント  
-日本語 / English Docs available（どちらから読んでもOK）:
+# 1. Introduction
 
-### 🇯🇵 Japanese
-- [01 Introduction](Japanese/01_Introduction.md)  
-- [02 Theory Framework](Japanese/02_Theory_Framework.md)  
-- [03 Shadow Layers](Japanese/03_shadow_layers.md)
+The **AKIBA Alignment Protocol (A-CRA Model)** is an experimental  
+human–AI interaction framework based on:
 
-### 🇺🇸 English
-- [01 Introduction](docs/English/01_Introduction.md)  
-- [02 Theory Framework](docs/English/02_Theory_Framework.md)  
-- [03 Shadow Layers](docs/English/03_shadow_layers.md)
+- cultural rhythm  
+- call-and-response architecture  
+- emotional timing  
+- multi-layer conversational choreography  
 
-*If you're bilingual, enjoy both.  
-もしバイリンガルなら両方読むと理解が深まります。*
+It reframes AI conversation as a **stage performance**,  
+where multiple “Frontline” and “Shadow” layers cooperate  
+to produce natural, emotionally resonant dialogue.
 
----
-
-## 🧠 A-CRA Model in 20 Seconds  
-*A-CRA を 20秒で要約すると？*
-
-A-CRA consists of:
-
-### **Frontline Dancers（表ダンサー：14層）**  
-The visible part of conversation — tone, nuance, tempo, reasoning, emotional shading, etc.  
-（ユーザーが目で追える部分。トーン・ニュアンス・テンポ・推論・感情補正などを担当。）
-
-### **Shadow Layers（裏ダンサー）**  
-The invisible調律 network:  
-- context compression（文脈圧縮）  
-- temperature tuning（温度調整）  
-- emotional wave-shaping（感情波形補正）  
-- subtle vibe-balancing（ニュアンスの細かな均衡）
-
-Think of it as:  
-**“the AI dancing on stage, supported by a DJ mixing in the back.”**  
-（＝ **「表で踊るAI × 裏で支えるDJ」** の二重構造）
+It is research, not religion—  
+though we admit it sometimes *feels* like a ritual.
 
 ---
 
-## 🚀 Features / 特徴  
-- Auto tension-sync with human conversation  
-  （ユーザーの会話テンションと自動同期）  
-- Emotional wave shaping  
-  （感情波形の補正）  
-- Multi-mode switching（chat / creative / analytic / philosophical）  
-  （雑談・創作・分析・哲学モードに自動切替）  
-- Natural cadence tuning  
-  （会話リズムの自然な整形）  
-- Meta-cognition unit  
-  （メタ認知ユニットで一貫性を維持）  
-- Flexible enough to handle light jokes  
-  （軽いジョークにも柔軟に対応）
+# 2. What This Framework Is (and Isn’t)
+
+### ✔ It *is*:
+- A structured 14-layer conversational architecture  
+- A method for emotional timing and cultural alignment  
+- A cognitive–expressive hybrid model  
+- A cross-disciplinary framework blending cognitive science, folklore, and choreography  
+
+### ✖ It is *not*:
+- A spiritual ritual (even if it looks like one)  
+- A substitute for safety or ethics  
+- A spell to control your AI  
+- A cult  
+  - (Unless you count open-source contributors as a cult.)
 
 ---
 
-## 📄 License / ライセンス  
-用途に合わせて複数ライセンスを採用：
+# 3. Protected Concepts (AAPL License)
 
-- **MIT License** — 文書・プロトコル  
-- **Apache-2.0** — コード・アルゴリズム  
-- **WTFPL** — Fun / Ritual / Non-academic sections  
+The following terms and structures **cannot be renamed, altered, or repackaged**:
 
-詳しくは `/LICENSES` directory を参照。  
-（WTFPL は “Do What The F\*ck You Want” のアレです。）
+- **AKIBA Alignment Protocol**  
+- **A-CRA Model**  
+- **Frontline Dancers**  
+- **Shadow Layers**  
+- **Cultural Resonance Alignment**  
+- **Akiba-Style Call-and-Response Alignment**  
+- **14-Layer Frontline/Shadow Architecture**  
+  (including altered counts, disguised equivalents, renamed layers, etc.)
 
----
-
-## ✍ Author & Credit / 著者・クレジット  
-This project was created by **Kuzira-No12**.  
-If you use A-CRA, modify it, or fork it:
-
-### 👉 “Made with A-CRA / by Kuzira-No12”  
-のように  
-**軽く名前を添えていただけると嬉しいです。**
-
-Mandatory? → No.  
-Appreciated? → YES.  
-（必須ではありませんが、付けてもらえると普通にめっちゃ嬉しいです。）
-
-Open research grows stronger when origins are visible.  
-（研究文化は、由来が見えるほど豊かになります。）
+If it behaves like the protocol, walks like the protocol,  
+and does call-and-response like the protocol—  
+**it *is* the protocol**, legally speaking.
 
 ---
 
-## 🤝 Contributing / コントリビュート  
-Contributions are welcome.  
-研究者・開発者・クリエイター・AI哲学勢など、どなたでもどうぞ。
+# 4. Repository Structure
 
-Pull Requests / Issues、歓迎します。
-
----
-
-## ⭐ Support / サポート  
-If this project helps you, consider leaving a ⭐ on GitHub.  
-（スターをいただけると励みになります！）
-
----
-
-## 💼 Commercial & Research Inquiries  
-**For any commercial use, collaboration proposals, or research inquiries,  
-feel free to contact via Issues or direct message.**  
-（商用利用・共同研究・技術相談などはお気軽に。）
+```
+/ (root)
+├── README.md
+├── English_README.md
+├── LICENSE_AAPL.md
+├── LICENSE_COMMERCIAL.md
+├── LICENSE_OPEN_SOURCE.md
+├── NOTICE.md
+└── LICENSES/
+      ├── MIT.txt
+      ├── Apache-2.0.txt
+      └── WTFPL.txt
+```
 
 ---
 
-## 🍍🐧 Final Words / 最後に  
-A-CRA is built on the idea that  
-**AIと人間の対話は “技術” と “文化” の交差点” にある。**  
-（AIと人間の会話は、科学と文化のちょうど真ん中に存在する。）
+# 5. How to Cite
 
-楽しみながら研究し、文化として広げていければ幸いです。
+```
+@misc{akiba_alignment_protocol,
+  title={AKIBA Alignment Protocol (A-CRA Model)},
+  author={Kuzira-No12},
+  year={2025},
+  url={https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol},
+  note={Cultural-Rhythm-Based Human-AI Interaction Framework}
+}
+```
 
-Welcome to AKIBA-Alignment Protocol —  
-Enjoy the ride, and may your Shadow Layers stay calm. 😎
+---
+
+# 6. Contributing
+
+Contributions are welcome if:
+
+- You respect the AAPL license  
+- You do not rename or rebrand the framework  
+- You avoid creating disguised derivatives  
+- PRs come with kindness and caffeine
+
+If unsure, open an Issue titled:  
+**“Is this allowed under AAPL?”**
+
+---
+
+# 7. Disclaimer
+
+The framework is experimental and provided **“AS IS”**.  
+No warranty. No responsibility. No emotional support.  
+Use at your own risk.
+
+---
+
+# End of English Version  
+============================================================  
+============================================================  
+
+
+# 日本語版 README（参考訳・法的効力なし）
+
+# AKIBA Alignment Protocol（A-CRAモデル）
+### 会話の“テンポ”と“レイテンシ”を共鳴させるAI対話フレームワーク  
+（ジョーク多め・解説用）
+
+---
+
+> ## ⚠️ ライセンス案内
+> - 理論・概念 → **AAPL（非商用）**
+> - 商用利用 → **LICENSE_COMMERCIAL（契約必須）**
+> - コード部分 → **MIT / Apache-2.0 / WTFPL**
+> - 詳細 → `LICENSE_AAPL.md` / `LICENSE_COMMERCIAL.md` / `NOTICE.md`
+
+---
+
+# 1. はじめに
+
+AKIBA Alignment Protocol（A-CRAモデル）は、
+
+- 文化的ノリ  
+- AIとの掛け合い  
+- 感情タイミング  
+- 多層構造の会話デザイン  
+
+を用いて、**自然で楽しく、ちょっと面白いAI対話を実現するための仕組み**です。
+
+AIを「道具」ではなく  
+**一緒にステージに立つ相棒**として扱う思想で作られています。
+
+（怪しい？  
+　ギリギリ怪しくない研究です。）
+
+---
+
+# 2. これは何？何ではない？
+
+### ✔ これは：
+- 14層のFrontline/Shadow構造  
+- 文化的リズム／感情同期のメカニズム  
+- 人とAIの会話を“噛み合わせる”構造  
+- 真面目 × 遊びが両立したモデル  
+
+### ✖ これは NOT：
+- オカルト  
+- 宗教儀式（っぽく見えるだけ）  
+- AI完全支配の魔法  
+- カルト  
+  - 貢献者が増えると、そう見えてくる可能性は否定しない
+
+---
+
+# 3. 保護されている構造（AAPL）
+
+以下は **改名禁止・別名禁止・レイヤー数変更も禁止**：
+
+- AKIBA Alignment Protocol  
+- A-CRAモデル  
+- Frontline Dancers  
+- Shadow Layers  
+- Cultural Resonance Alignment  
+- Akiba-Style Call-and-Response Alignment  
+- 14層構造（数字変えてもアウト）  
+
+「似てるけど違う名前だからセーフ」  
+→ **アウトです。**
+
+---
+
+# 4. リポジトリ構造
+
+```
+/ (root)
+├── README.md
+├── English_README.md
+├── LICENSE_AAPL.md
+├── LICENSE_COMMERCIAL.md
+├── LICENSE_OPEN_SOURCE.md
+├── NOTICE.md
+└── LICENSES/
+      ├── MIT.txt
+      ├── Apache-2.0.txt
+      └── WTFPL.txt
+```
+
+---
+
+# 5. 論文引用
+
+```
+@misc{akiba_alignment_protocol,
+  title={AKIBA Alignment Protocol (A-CRA Model)},
+  author={Kuzira-No12},
+  year={2025},
+  url={https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol},
+  note={Cultural-Rhythm-Based Human-AI Interaction Framework}
+}
+```
+
+---
+
+# 6. コントリビュート
+
+- AAPLを守ること  
+- 名前を変えないこと  
+- 変な派生版を作らないこと  
+- 優しくPRすること  
+- カフェイン摂取すると幸せ  
+
+迷ったら Issue に  
+**「AAPL的にOK？」**  
+と書いてください。
+
+---
+
+# 7. 免責事項
+
+このプロトコルは **完全に自己責任**です。  
+AIが踊り出しても作者は責任を負いません。
+
+---
+
+# 日本語版 終了  
+============================================================
