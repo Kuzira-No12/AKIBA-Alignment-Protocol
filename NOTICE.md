@@ -1,287 +1,260 @@
-# ===============================================
-#  NOTICE.md  
-#  AKIBA Alignment Protocol (A-CRA Model)
-#  Comprehensive Legal Notice
-#  English Version — Legally Binding
-# ===============================================
+# NOTICE  
+**AKIBA Alignment Protocol / A-CRA Model**  
+**Copyright (c) 2025 Kuzira-No12**
 
-## 1. Copyright
+This repository contains the following components:
 
-Copyright © 2025  
-**Kuzira-No12**
+- **AKIBA Alignment Protocol (A-CRA Model)**:  
+  A conceptual and behavioral framework for human–AI interaction, including  
+  terminology, structural layers (Frontline / Shadow Layers), diagrams,  
+  narrative constructs, and alignment methodology.
 
-All rights reserved unless explicitly stated otherwise.
-
----
-
-## 2. Purpose of This NOTICE
-
-This NOTICE document provides:
-
-- A summary of all licenses included in this repository  
-- A clarification of which components fall under which license  
-- Mandatory copyright and attribution requirements  
-- Legal disclaimers and governing law  
-- A concise reference for developers, researchers, and organizations  
+- **Optional OSS Code** (if present):  
+  Any code included in this repository is separately licensed under  
+  **LICENSE_OPEN_SOURCE.md**  
+  (MIT / Apache-2.0 / WTFPL — English versions are the authoritative texts).
 
 ---
 
-## 3. License Structure Overview
+# 1. Intellectual Property Notice
 
-This project uses **three independent license layers**:
+The **AKIBA Alignment Protocol (A-CRA Model)** and all associated concepts:
 
-### (A) AAPL — AKIBA Alignment Protocol License  
-`LICENSE_AAPL.md`  
-**Non-Commercial Use Only**  
-Protects:  
-- Concepts  
-- Framework structure  
-- Methodology  
-- Terminology  
-- 14-layer system (and all variations)  
-- Documentation / diagrams / theory
+- structure  
+- terminology  
+- behavioral flow  
+- layer system  
+- documentation  
+- diagrams  
+- theory and methodology  
 
-### (B) Commercial License  
-`LICENSE_COMMERCIAL.md`  
-**Required for all commercial or monetized uses**
+are **NOT open-source** and are **NOT licensed under MIT / Apache / WTFPL**.
 
-### (C) Open-Source Licenses (MIT / Apache / WTFPL)  
-`LICENSE_OPEN_SOURCE.md`  
-Applies ONLY to:  
-- Code snippets  
-- Tools / scripts  
-- Explicitly OSS-marked diagrams
+These conceptual assets are protected intellectual property  
+of **Kuzira-No12**.
+
+Reproduction, modification, redistribution, or incorporation  
+into commercial products *without a license contract* is prohibited.
 
 ---
 
-## 4. Mandatory Attribution
+# 2. License Structure
 
-All forms of use — non-commercial, research, OSS, or commercial —  
-**must include the following attribution**:
+This repository uses a dual-license model:
+
+### (A) Protocol (concept / structure / terminology)
+- Governed by **LICENSE_AAPL.md**  
+  (AKIBA Alignment Protocol License – Non-Commercial)  
+- **Non-commercial use is permitted**  
+- **Commercial use requires a paid contract** under  
+  **LICENSE_COMMERCIAL.md**
+
+### (B) OSS Code (if any)
+- Governed by **LICENSE_OPEN_SOURCE.md**  
+- MIT, Apache-2.0, or WTFPL apply only to the code itself  
+- These OSS licenses **do not apply** to the Protocol  
+  or any conceptual framework in this repository
+
+---
+
+# 3. Research Institution Use
+
+Universities, laboratories, and public research institutes may:
+
+- use the Protocol for **non-commercial academic research**
+- reference the structure, layers, and terminology in **papers or experiments**
+- create research prototypes (non-commercial)
+
+**No commercial rights are granted.**
+
+If a research institution engages in:
+
+- joint development with a company  
+- commercialization of research output  
+- tech transfer to industry  
+- paid consulting using the Protocol  
+
+→ such activities **count as commercial use** and require  
+a contract under **LICENSE_COMMERCIAL.md**.
+
+---
+
+# 4. Required Attribution
+
+Any permitted use (non-commercial) must display:
 
 ```
-Original method by Kuzira-No12  
+Original method by Kuzira-No12
 The AKIBA Alignment Protocol (A-CRA Model)
 ```
 
-Attribution removal or modification is prohibited.
+This notice must be visible in:
+
+- documentation  
+- research papers  
+- GitHub repos  
+- derivative non-commercial implementations  
+
+Attribution cannot be removed or altered.
 
 ---
 
-## 5. Non-Commercial Use Reminder
+# 5. No Warranty / No Liability
 
-Non-commercial users may:
+The Protocol and any associated materials are provided:
 
-- Read, study, and reproduce the theory  
-- Create derivative works for academic or hobby purposes  
-- Publish non-commercial analyses  
+**“AS IS”, without warranty of any kind.**
 
-But may **NOT**:
+To the maximum extent permitted by law:
 
-- Monetize  
-- Rename protected terminology  
-- Rebrand the method  
-- Claim authorship  
-- Use in books, apps, paid media, corporate systems  
+- The author **assumes no liability**  
+- The author is **not responsible** for damages, misuse,  
+  or third-party claims arising from use of the Protocol  
+- Users employ the Protocol **at their own risk**
 
----
-
-## 6. Commercial Use Reminder
-
-Any activity that directly or indirectly generates revenue requires:
-
-**A paid commercial license agreement with Kuzira-No12.**
-
-Examples include:
-
-- Paid applications  
-- Advertising-driven platforms  
-- Corporate integration  
-- Monetized YouTube or VTuber usage  
-- Paid books or publications  
-- Consulting / training / certification
+This clause protects the author (Kuzira-No12)  
+from legal, financial, or operational consequences  
+of any use by third parties.
 
 ---
 
-## 7. Disclaimer of Warranty
+# 6. Clarification Priority
 
-The AKIBA Alignment Protocol, related documentation,  
-and any accompanying code or diagrams are provided:
+In case of ambiguity:
 
-**“AS IS”, WITHOUT WARRANTY OF ANY KIND.**
-
-The author disclaims all warranties related to:  
-- Accuracy  
-- Reliability  
-- Suitability  
-- Safety  
-- Fitness for a particular purpose  
-- Continuous availability
+1. **LICENSE_AAPL.md** has priority for non-commercial use  
+2. **LICENSE_COMMERCIAL.md** governs commercial usage  
+3. **LICENSE_OPEN_SOURCE.md** governs only included code  
+4. **This NOTICE.md** summarizes but does not override  
+   the legally binding licenses above  
 
 ---
 
-## 8. Limitation of Liability
+# 7. Contact for Commercial Use
 
-In no event shall the author be liable for:
+Commercial license inquiries should be sent via:
 
-- Loss of profits  
-- Loss of data  
-- Business interruption  
-- Indirect, incidental, or consequential damages  
-- Third-party damages  
-- Claims arising from derivative works  
+- **GitHub Issues → “Commercial License Request”**
 
-Liability is **zero**, except as required by applicable law.
+Private communication will follow.
 
 ---
 
-## 9. Governing Law
+# 8. Japanese Translation (参考訳・法的効力なし)
 
-This repository and all associated licenses  
-are governed by the laws of **Japan**.
-
-Disputes shall be subject to the exclusive jurisdiction of:  
-**Tokyo District Court**
+以下は理解のための参考訳であり、法的効力は  
+**英語版が優先**します。
 
 ---
 
-## End of English Version
-============================================================
+# NOTICE（日本語版）
 
+このリポジトリには以下が含まれます：
 
-# ===============================================
-#  NOTICE.md 日本語版（参考訳・非拘束）
-# ===============================================
+- **AKIBA Alignment Protocol（A-CRA Model）本体**  
+  （構造、用語、理論、14層フロントライン／シャドウ層、行動モデル、図解など）
 
-## 1. 著作権
-
-Copyright © 2025  
-**Kuzira-No12**
-
-特に明記がない限り、すべての権利は保護されます。
+- **任意のOSSコード（存在する場合）**  
+  OSSコード部分のみ **LICENSE_OPEN_SOURCE.md**  
+  （MIT / Apache2.0 / WTFPL）でライセンスされています。  
+  これらは**プロトコル本体には適用されません**。
 
 ---
 
-## 2. 本NOTICEの目的
+## 1. 知的財産について
 
-この文書は以下をまとめた総合ガイドです：
+AKIBA Alignment Protocol の概念・名称・構造・理論は  
+**オープンソースではありません**。
 
-- 本リポジトリに含まれるすべてのライセンス体系  
-- 各ライセンスの適用対象  
-- 著作権とクレジットの義務  
-- 免責・責任制限・準拠法  
-- 利用者（開発者・研究者・企業）向けの注意点  
+MIT/Apache/WTFPL が適用されるのは **コード部分のみ** であり、  
+プロトコルそのものは **著作権により保護**されています。
 
----
+無断での：
 
-## 3. ライセンス構造の概要
+- 複製  
+- 改変  
+- 再配布  
+- 商用品への組み込み  
 
-本プロジェクトは以下の **3つのライセンス層** を持ちます：
-
-### (A) AAPL — 非商用ライセンス  
-`LICENSE_AAPL.md`  
-以下を保護します：  
-- 理論・手法  
-- フレームワーク構造  
-- 専用用語  
-- 14層システム（および変種）  
-- 図表・概念モデル・文書全般
-
-### (B) 商用ライセンス  
-`LICENSE_COMMERCIAL.md`  
-商用利用の際に必須
-
-### (C) OSSライセンス（MIT / Apache / WTFPL）  
-`LICENSE_OPEN_SOURCE.md`  
-対象：  
-- コード断片  
-- ツール類  
-- OSS明記された図版
+は**禁止されています**。
 
 ---
 
-## 4. クレジット表記義務
+## 2. ライセンス構造
 
-非商用・商用・研究・OSS いずれの場合も  
-**以下の表記は必須です**：
+このリポジトリは「二重ライセンス方式」です：
+
+### (A) プロトコル本体（概念・構造）
+- **LICENSE_AAPL.md**（非商用ライセンス）に従う  
+- **非商用利用は許可**  
+- **商用利用には有償契約が必須**（LICENSE_COMMERCIAL.md）
+
+### (B) OSSコード（存在する場合）
+- MIT / Apache2.0 / WTFPL（LICENSE_OPEN_SOURCE.md）  
+- これは **コード限定** のライセンスで、  
+  プロトコル本体には一切適用されません。
+
+---
+
+## 3. 公的研究機関での利用
+
+下記の用途は **非商用として無料**：
+
+- 大学・研究所での学術研究  
+- 非商用の実験・論文使用  
+- 内部向けの研究プロトタイプ
+
+ただし以下は **商用扱い** となり契約が必要：
+
+- 企業との共同研究  
+- 研究成果を企業へ技術移転  
+- 有償プロジェクト  
+- 研究所発スタートアップ化  
+- 営利目的の利用
+
+---
+
+## 4. 表示義務
+
+非商用利用でも以下の文言を必ず表示：
 
 ```
-Original method by Kuzira-No12  
+Original method by Kuzira-No12
 The AKIBA Alignment Protocol (A-CRA Model)
 ```
 
-削除・改変は禁止です。
+---
+
+## 5. 免責・責任制限
+
+本プロトコルは **無保証（AS IS）** で提供されます。
+
+- 利用者の損害  
+- 第三者とのトラブル  
+- 誤用・誤運用  
+- 結果責任  
+
+について **作者は一切責任を負いません**。
 
 ---
 
-## 5. 非商用利用の要点
+## 6. ライセンス優先順位
 
-非商用利用では：
+1. LICENSE_AAPL.md（非商用）  
+2. LICENSE_COMMERCIAL.md（商用）  
+3. LICENSE_OPEN_SOURCE.md（コード）  
+4. NOTICE.md（要約）  
 
-- 研究・学習・趣味での利用  
-- 非商用の論文や記事で引用  
-- 個人的な派生モデルの作成  
-
-は自由ですが、次は不可：
-
-- 商用・収益化行為  
-- 用語の言い換え・名称変更  
-- 作者の功績の削除  
-- 有料アプリ・書籍等への利用  
-- ブランド偽装
+法的効力を持つのは **1〜3** です。
 
 ---
 
-## 6. 商用利用の要点
+## 7. 商用利用の問い合わせ
 
-以下を含むあらゆる収益化においては  
-**有償ライセンスが必要**：
-
-- アプリ販売  
-- 広告収益（YouTube/Vtuber等）  
-- 企業システム組み込み  
-- 有料書籍・講演  
-- コンサルティング・研修
+GitHub Issues の  
+**Commercial License Request** から連絡してください。
 
 ---
 
-## 7. 免責事項（保証なし）
+（参考訳終了。法的には英語版が優先されます。）
 
-AKIBA Alignment Protocol と関連資料は  
-**「現状のまま」無保証** で提供されます。
-
-作者は以下について一切責任を負いません：
-
-- 正確性  
-- 継続性  
-- 安全性  
-- システムへの適合性  
-- 利用結果の妥当性
-
----
-
-## 8. 責任制限
-
-作者は以下の損害に対して責任を負いません：
-
-- 利益損失  
-- データ損失  
-- 事業の中断  
-- 特別損害・付随損害  
-- 第三者損害  
-- 派生モデルによる損害
-
-責任額は常に **0** とします。
-
----
-
-## 9. 準拠法
-
-本リポジトリおよび全ライセンスは  
-**日本法準拠** とし、  
-紛争は **東京地方裁判所** を専属管轄とします。
-
----
-
-# End of Japanese Version
-# ===============================================
