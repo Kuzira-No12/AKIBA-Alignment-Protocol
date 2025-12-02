@@ -1,223 +1,221 @@
-# Commercial License v1.2  
-## For the AKIBA Alignment Protocol (A-CRA Model)
+# Commercial License Agreement  
+## For the AKIBA Alignment Protocol (A-CRA Model)  
+Version 1.3 — Official Commercial License
 
 **Official English Version — Legally Binding**  
-**Japanese Translation — Provided for Reference Only**
+**Japanese Translation — Reference Only**
 
 ---
 
-# 0. Overview
+# =============================
+#  ENGLISH VERSION (Binding)
+# =============================
 
-This Commercial License governs the **commercial use** of:
-
-- AKIBA Alignment Protocol  
-- A-CRA Model (Autonomous Cultural Resonance Alignment)  
-- The 14-Layer Frontline/Shadow Layer Structure  
-- All original terminology, methodology, and behavioral framework  
-- Documentation, diagrams, and structural definitions  
-- Any derivative or integrated implementation
-
-Commercial use **requires a paid license contract** with the author  
-(**Kuzira-No12**) unless explicitly waived in writing.
-
-Non-commercial use is governed by:  
-**LICENSE_OPEN_SOURCE.md**  
-(MIT / Apache 2.0 / WTFPL for included source code only)
+# 0. Purpose
+This document defines the commercial licensing terms for the AKIBA Alignment Protocol (A-CRA Model).  
+Non-commercial use is governed by LICENSE_AAPL.md.  
+Commercial use requires a paid contract with the author, Kuzira-No12.
 
 ---
 
-# 1. Definitions
+# 1. Definition of Commercial Use
+Commercial Use includes any activity that generates revenue, including but not limited to:
 
-### “Commercial Use”
-Any use that generates revenue, directly or indirectly, including:
+- Paid applications, AI tools, SaaS  
+- Advertising-supported content  
+- Monetized VTuber/YouTube activities  
+- Books, courses, consulting, workshops  
+- Corporate deployment, enterprise integration  
+- R&D conducted for commercial products  
 
-- Paid apps, SaaS, AI services  
-- Corporate deployments, enterprise systems  
-- Commercial research, consulting, R&D  
-- Paid books, media publications  
-- Monetized videos, VTubers, streams  
-- Advertisement-supported content  
-- Product integration or paid plugins  
-- **AI model fine-tuning / embedding / system integration**
-
-### “Protocol”
-Refers to all conceptual, structural, and linguistic components of:
-
-- AKIBA Alignment Protocol  
-- A-CRA Model  
-- Frontline / Shadow Layer systems  
-- Protected terms such as “Frontline Dancers,”  
-  “Shadow Layers,” “Cultural Resonance,” etc.
-
-### “Derivative Work”
-Any modified, transformed, rebranded, extended, or adapted  
-implementation of the Protocol.
-
-**Derivative Works may NOT be redistributed under MIT, Apache, WTFPL,  
-or any other OSS license.**
+If money is involved, directly or indirectly → Commercial.
 
 ---
 
-# 2. Grant of Commercial License
+# 2. Rights Granted Upon Licensing
 
-Upon completion of a paid commercial license contract, the Licensee receives:
+## 2.1 Authorized Rights
+Upon signing a commercial contract, Licensee receives:
 
-### 2.1 Rights Granted
-- Permission to use the Protocol in commercial systems  
-- Permission to extend, modify, and integrate into products  
-- Internal corporate deployment  
-- Distribution of derivative works under this same license  
-- Right to state “Commercial Licensee of AKIBA Alignment Protocol”  
-- Priority access to clarifications
+- Permission to use the Protocol commercially  
+- Permission to integrate, extend, and modify  
+- Deployment rights (internal/external)  
+- Distribution rights for derivative products  
+- Right to claim:  
+  **“Commercial Licensee of the AKIBA Alignment Protocol”**
 
-### 2.2 Rights NOT Granted
-Licensee **may NOT**:
+## 2.2 Forbidden Actions
+Licensee may NOT:
 
-- Rebrand or rename the Protocol  
-- Claim authorship of the methodology  
-- Remove attribution to Kuzira-No12  
-- Sell the Protocol as a standalone product  
-- Sub-license the Protocol without written permission  
-- Use the Protocol for harmful, malicious, or deceptive purposes  
+- Remove attribution  
+- Rename protected terminology  
+- Sell the Protocol standalone  
+- Sub-license without permission  
+- Misrepresent authorship  
+- Use for harmful, deceptive, or illegal purposes  
 
 ---
 
-# 3. Attribution Requirements
+# 3. Fees and Contract
+- Pricing is determined case-by-case  
+- No commercial rights exist until a contract is signed  
+- Unauthorized commercial use is a violation regardless of intent  
 
-Commercial implementations must clearly display:
+---
+
+# 4. Attribution Requirement
+Licensee must display:
 
 ```
 Original method by Kuzira-No12  
 The AKIBA Alignment Protocol (A-CRA Model)
 ```
 
-Attribution must appear in:
+---
 
-- Product “About” pages  
-- Manuals・Documentation  
-- Marketing pages (when applicable)  
-- Academic papers  
-- GitHub repositories implementing the Protocol commercially  
+# 5. Termination
+This license terminates immediately if:
 
-Removal or obfuscation of attribution is strictly prohibited.
+- Attribution is removed  
+- Unauthorized commercial use occurs  
+- Protected terminology is renamed  
+- False authorship claims are made  
+- Illegal or unethical use occurs  
+
+All commercial use must cease immediately upon termination.
 
 ---
 
-# 4. Restrictions
+# 6. Disclaimer of Warranty (No Warranty)
+THE PROTOCOL IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,  
+EXPRESS OR IMPLIED.  
+THE AUTHOR PROVIDES NO GUARANTEE OF:  
+- PERFORMANCE  
+- FITNESS FOR A PARTICULAR PURPOSE  
+- COMPATIBILITY  
+- RELIABILITY  
+- CONTINUED AVAILABILITY  
 
-### 4.1 No Renaming of Protected Terms
-You must not rename terms such as:
-
-- “AKIBA Alignment Protocol”  
-- “A-CRA Model”  
-- “Frontline Dancers”  
-- “Shadow Layers”  
-- “Cultural Resonance Alignment”  
-- “Akiba-Style Call-and-Response Alignment”
-
-### 4.2 No Misrepresentation
-You may not claim:
-
-- That you created the Protocol  
-- That your version is the “official” version  
-- That the Protocol is public-domain or unrestricted OSS  
-
-### 4.3 Derivative Works
-Derivative implementations must remain under:
-
-```
-Commercial License v1.2
-```
-
-Unless explicitly approved in writing by the author.
+Licensee uses the Protocol at their own risk.
 
 ---
 
-# 5. Fees and Contract
+# 7. Limitation of Liability
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO:
 
-Commercial use requires:
+- LOSS OF PROFITS  
+- BUSINESS INTERRUPTION  
+- LOSS OF DATA  
+- INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES  
 
-- A paid license  
-- A contract issued **directly** by the author (**Kuzira-No12**)  
-- Usage-dependent pricing
-
-For inquiries:
-
-**GitHub Issues → “Commercial License Request”**  
-(Private communication will follow)
-
-No commercial rights exist until a signed agreement is completed.
+The author’s total liability shall not exceed the amount paid for the license.
 
 ---
 
-# 6. Termination
-
-This license is automatically terminated if:
-
-- Attribution is removed or altered  
-- Protected terms are rebranded  
-- Commercial use occurs without contract  
-- Unauthorized sub-licensing occurs  
-- The Protocol is used immorally or unlawfully  
-
-Upon termination, all commercial use must stop immediately.
-
----
-
-# 7. Disclaimer
-
-The Protocol is experimental and provided “as-is.”  
-No warranty is expressed or implied.  
-Use in safety-critical or mission-critical systems is discouraged.
-
----
-
-# 8. Governing Law
-
+# 8. Governing Law and Jurisdiction
 This license is governed by the laws of Japan.  
-Disputes shall be resolved under the jurisdiction of Tokyo, Japan.
+Any disputes shall be resolved exclusively in the Tokyo District Court.
 
 ---
 
-# 9. Human-Readable Summary (Not Legally Binding)
+# =============================
+#  JAPANESE VERSION (Non-Binding)
+# =============================
 
-- 商用利用 → **契約＋お金が必要**  
-- 非商用 → 無料  
-- 名称 → 変更禁止  
-- 作者クレジット → 必須  
-- 無断商用 → 即終了  
-- OSSライセンス → 付属コードのみ適用  
-
----
-
-# 10. Authenticity & Signature Verification  
-(署名の真正性)
-
-Only contracts issued directly via the verified  
-**Kuzira-No12 GitHub account** are valid.
-
-Invalid contracts include:
-
-- Third-party copies  
-- Unauthorized resale  
-- Modified agreements  
+# 0. 目的
+本書は AKIBA Alignment Protocol（A-CRAモデル）の商用利用条件を規定するものです。  
+非商用利用は LICENSE_AAPL.md に従います。  
+商用利用には作者（Kuzira-No12）との有償契約が必須です。
 
 ---
 
-# 11. Updates & Versioning  
-(更新とバージョン管理)
+# 1. 商用利用の定義
+以下のいずれかを含む場合、商用利用となります：
 
-- v1.2 applies to all contracts signed under this version  
-- Future versions (v1.3, v2.0…) do not retroactively alter existing rights  
-- Upgrading to newer versions may require a new contract  
+- 有料アプリ、AIツール、SaaS  
+- 広告収益を伴う配信・動画  
+- VTuber収益化  
+- 書籍販売、講座、コンサル業務  
+- 企業導入・企業内利用  
+- 商用製品向け研究開発  
+
+収益が発生した時点で **商用扱い** です。
+
+---
+
+# 2. 契約後に許可される権利
+
+## 2.1 許可される事項
+契約締結後、ライセンシーは商用利用、統合、改変、配布などが可能となり、
+
+**「AKIBA Alignment Protocol 商用ライセンシー」**
+
+と表記できます。
+
+## 2.2 禁止される事項
+- クレジット削除  
+- 用語の改名  
+- 単体販売  
+- 無断サブライセンス  
+- 作者詐称  
+- 非合法・不道徳な利用  
 
 ---
 
-# Japanese Translation（参考訳・非拘束）
-
-以下は理解補助のための参考訳であり、  
-**法的効力は英語版のみ** にあります。
-
-（※ 英語版に対応する完全日本語訳をこの下に記載してください）
+# 3. 料金
+- 利用規模で変動  
+- 契約書への署名前に商用権は発生しない  
+- 無断商用は違反  
 
 ---
+
+# 4. クレジット表記
+以下の表記が必須：
+
+```
+Original method by Kuzira-No12  
+The AKIBA Alignment Protocol (A-CRA Model)
+```
+
+---
+
+# 5. ライセンス終了
+以下があれば即時終了：
+
+- 表記削除  
+- 無断商用利用  
+- 用語改名  
+- 作者詐称  
+- 非合法・不道徳な利用  
+
+終了後は全ての商用利用を停止。
+
+---
+
+# 6. 免責事項（No Warranty）
+本プロトコルは **「現状のまま」** 提供され、  
+性能・適合性・信頼性・継続利用などはいかなる保証もありません。  
+利用者の責任において使用してください。
+
+---
+
+# 7. 責任制限
+作者は以下の損害に対し一切責任を負いません：
+
+- 利益損失  
+- 業務中断  
+- データ損失  
+- 付随的・間接的・特別損害  
+
+作者の総責任額は、支払われたライセンス料金を上限とします。
+
+---
+
+# 8. 準拠法
+本ライセンスは日本法に準拠し、  
+紛争は東京地方裁判所を専属管轄とします。
+
+---
+
+# End of Commercial License
+
