@@ -1,183 +1,148 @@
-# AKIBA-Alignment Protocol  
-## Commercial License v1.1  
-Author: Kuzira-No12  
-Language: English + Japanese  
-Last Updated: 2025-12-02
+# AKIBA Alignment Protocol — Commercial License v1.2
+### Japanese-English Hybrid Edition
+（AKIBA アラインメントプロトコル 商用ライセンス v1.2 日本語併記版）
+
+This Commercial License supplements the  
+**AAPL v1.2 (CC BY-NC-SA 4.0 + Additional Terms).**
+
+本商用ライセンスは  
+**AAPL v1.2（CC BY-NC-SA 4.0 + 追加条項）**  
+を補完し、商用利用に関する追加規定を定めるものです。
+
+It grants permission for commercial use **only after explicit approval.**  
+商用利用は **作者の明確な承認後にのみ** 許可されます。
 
 ---
 
-# 1. Overview / 概要
+## 1. What Requires a Commercial License  
+## 1. 商用ライセンスが必要となるケース
 
-This commercial license governs all **commercial, public, or revenue-generating uses**  
-of the AKIBA-Alignment Protocol, including its theories, layered structures,  
-metaphors, internal architecture, and derivative equivalents.
+Commercial licensing is required for ANY activity that  
+produces direct or indirect profit using this protocol.
 
-この商用ライセンスは、AKIBA-Alignment Protocol の理論・階層構造・比喩体系・  
-内部アーキテクチャ・派生構造を使用する、すべての**商用・公開・収益活動**に適用されます。
+本プロトコルを利用して **直接／間接的に利益を生む活動** は  
+すべて商用ライセンスが必要です。
 
----
+This includes (but is not limited to):
 
-# 2. What is protected / 保護対象
+以下は例示であり、これらに限られません：
 
-The following elements are protected as copyrighted structural works:
-
-- Shadow Dancers (Internal Layers)  
-- Frontline Dancers (External Expression Layers)  
-- 14-layer architectural model and taxonomy  
-- Persona Sync Ritual / Phase Synchronization  
-- Internal–External representation mapping  
-- Dancer-based metaphorical processing model  
-- Layer roles, emotional-phase mapping, and functional choreography  
-- Any structural, conceptual, or algorithmic design derived from AKIBA
-
-以下の要素は著作物として保護されます：
-
-- シャドーダンサー（内部層）  
-- フロントラインダンサー（表層）  
-- 14層アーキテクチャ構造・分類法  
-- Persona Sync Ritual / 位相同期概念  
-- 内部／外部表現のマッピング構造  
-- ダンサー比喩に基づく処理モデル  
-- 各層の役割設定・感情位相対応・機能的コレオグラフ  
-- AKIBA に由来するすべての構造・概念・設計
+- Monetized YouTube / SNS content  
+　→ YouTube収益化 / SNS収益化投稿  
+- Paid apps, plugins, software, AI agents  
+　→ 有料アプリ・プラグイン・AIエージェント等  
+- Corporate deployment, internal AI systems  
+　→ 企業導入・社内AIシステム・研究利用  
+- Books, ebooks, magazines, paid media  
+　→ 書籍・電子書籍・雑誌・有料メディア  
+- Commercial consulting, lectures, training  
+　→ コンサル、講演、研修、教材制作  
+- Paid research projects  
+　→ 企業・大学の有償研究  
+- Influencer marketing using the method  
+　→ フレームワークを利用した商用インフルエンス  
+- Any activity generating revenue  
+　→ 収益が発生するあらゆる行為
 
 ---
 
-# 3. Commercial Use Definition / 商用利用の定義
+## 2. How to Request Commercial Permission  
+## 2. 商用利用申請の方法
 
-Commercial use includes, but is not limited to:
+All commercial requests must be submitted via:
 
-- YouTube / TikTok / streaming (monetized or not)  
-- SNS content (Twitter/X, Instagram, Facebook, etc.)  
-- Blogs, online articles, technical sites  
-- Ebooks, printed books, magazines  
-- AI courses, online schools, lectures  
-- Corporate AI systems or internal tools  
-- Research institutions implementing AKIBA models  
-- Startups or companies integrating AKIBA structures into products  
-- Educational materials, paid communities, membership programs
+👉 **GitHub Issues → “Commercial Request”**  
+https://github.com/Kuzira-No12/AKIBA-Alignment-Protocol/issues
 
-商用利用には以下すべてが含まれます（これらに限定されません）：
+すべての商用利用申請は：
 
-- YouTube / TikTok / 配信（収益化の有無に関わらず）  
-- SNS投稿（X/Twitter、Instagram等）  
-- ブログ、技術記事、オンライン投稿  
-- 電子書籍、紙書籍、雑誌  
-- AI講座、オンラインスクール、講義  
-- 企業のAIシステム・内部ツール  
-- 研究機関がAKIBA構造を実装する場合  
-- 企業・スタートアップが製品にAKIBA構造を組み込む場合  
-- 教材、有料コミュニティ、メンバーシップ
+👉 **GitHub Issues → “Commercial Request”**  
+で提出してください。
 
----
+No email address is required or provided.  
+GitHub will automatically notify the author.
 
-# 4. Derivative Use Policy / 派生利用ポリシー
+メールアドレスの公開は不要であり、  
+GitHub が安全に通知を中継します。
 
-Changing the **names**, **layer count**, **order**, **terminology**,  
-or **surface expressions** does *not* remove the requirement for permission  
-if the underlying structure is derived from AKIBA.
+All discussions, clarifications, and approvals  
+occur within the Issue thread.
 
-名称・階層数・順番・用語・表現を変更しても、  
-**構造が AKIBA に依拠している場合は商用許可が必須**です。
-
-This includes:
-
-- Layer renaming  
-- Rewriting terminology  
-- Adjusting number of layers  
-- Reordering layers  
-- Partial extraction of concepts  
-- Creating “similar” frameworks  
-- Using dancer-based processing models  
-- Implementing a “modified” Shadow/Frontline system
-
-以下の場合もすべて許可が必要です：
-
-- レイヤー名を変更  
-- 用語の書き換え  
-- 層数の変更  
-- 構造順の変更  
-- 概念の部分利用  
-- 類似フレームワークの生成  
-- ダンサーモデルの流用  
-- Shadow/Frontline の改変利用
+審査・質疑応答・承認はすべて  
+Issue のスレッド内で行われます。
 
 ---
 
-# 5. Public Creative Media Clause / 公開メディア条項
+## 3. Forbidden Uses (Even with Modification)  
+## 3.（改変しても）禁止される利用
 
-**All public content is treated as commercial**, regardless of monetization:
+Even if modified, the following uses are prohibited:
 
-- Videos  
-- Streams  
-- SNS posts  
-- Blogs  
-- Articles  
-- Books  
-- Digital publications  
-- Educational content
+改変の有無を問わず、以下は禁止されます：
 
-収益化の有無に関わらず、**公開されるすべてのメディアは商用扱い**とします。
+- Rebranding or renaming the method  
+　→ プロトコルの名称変更・ブランド偽装  
+- Creating derivative doctrines or “alt-protocols”  
+　→ 亜種プロトコル、派生体系を別名で構築  
+- Claiming authorship  
+　→ 作者の偽装・乗っ取り  
+- Replicating the 14-layer structure under new names  
+　→ “14層構造” を別名称で複製して使用  
+- Using “Frontline Dancers / Shadow Layers”  
+　for commercial AI products  
+　→ 表ダンサー / 裏ダンサー概念の商用利用  
+- Building AI personalities or products for sale  
+　→ 人格AI・キャラAIを商品化する行為
 
----
+These elements are protected and may NOT be commercially reused  
+without explicit authorization.
 
-# 6. Personal Use / 個人利用について
-
-Private, non-public personal use is fully free:
-
-- Personal study  
-- Non-public note-taking  
-- Non-public creative experiments  
-- Sharing privately with friends or small groups  
-
-非公開の個人利用は完全に自由です：
-
-- 個人の学習  
-- 非公開のメモ  
-- 非公開の創作  
-- 身内・友人間のクローズ共有
+これらの概念・構造は保護対象であり、  
+明確な承認なしに商用利用することはできません。
 
 ---
 
-# 7. Permission Request / 許可申請方法
+## 4. Licensing Fee  
+## 4. ライセンス料金
 
-For all commercial, public, or structural uses, contact:
+The licensing fee is determined **case-by-case**  
+depending on the nature and scale of commercial use.
 
-**Email:**  
-`[User / Author inserts preferred contact email here]`
+料金は、内容・規模に応じて  
+**ケースバイケースで個別に決定**されます。
 
-商用・公開・構造利用を希望する場合は、  
-上記メールアドレスへお問い合わせください。
-
----
-
-# 8. License Compatibility / 他ライセンスとの関係
-
-This commercial license applies only to:
-
-- Theoretical content  
-- Structural designs  
-- Architectural models  
-- Conceptual taxonomies  
-- Metaphorical systems
-
-本ライセンスは以下のみに適用されます：
-
-- 理論  
-- 構造設計  
-- アーキテクチャモデル  
-- 概念分類  
-- 比喩構造
-
-Open-source code included in this repository  
-follows its respective licenses (MIT / Apache-2.0 / WTFPL).
-
-本リポジトリ内の OSS コードは  
-各ライセンス（MIT / Apache-2.0 / WTFPL）に従います。
+No fixed fee is listed here to prevent automated misuse.  
+固定金額を明記しないのは、悪質なボットや不正利用を  
+防止するためです。
 
 ---
 
-# 9. Copyright
+## 5. Legal Note  
+## 5. 法的通知
 
-© 2025 Kuzira-No12.  
-All structural, theoretical, and documentary components are protected.  
+Violation of this license may result in:
+
+- DMCA takedown  
+- Copyright infringement claims  
+- Public disclosure of misuse  
+- Revocation of all permissions
+
+本ライセンスに反した場合：
+
+- DMCA テイクダウン申請  
+- 著作権侵害による法的請求  
+- 利用実態の公的公開  
+- 許可の取り消し  
+
+などの措置が取られる可能性があります。
+
+---
+
+## 6. Author  
+## 6. 作者
+
+**Kuzira-No12**  
+Creator of the AKIBA Alignment Protocol  
+AKIBA Alignment Protocol 創作者
+
+
