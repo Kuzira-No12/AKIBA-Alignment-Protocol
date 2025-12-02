@@ -1,230 +1,184 @@
 # AKIBA-Alignment Protocol License (AAPL)
-# Version 1.0 – 2025
+# Version 1.0 — 2025  
 # Official English Text (Legally Binding)
 
-The AKIBA-Alignment Protocol License (AAPL) is a dual-license system allowing  
-free non-commercial use and controlled commercial use of the AKIBA-Alignment  
-Protocol and all original materials included in this repository.
+The AKIBA-Alignment Protocol License (AAPL) governs the **non-commercial use**  
+of the AKIBA-Alignment Protocol and the A-CRA Model.
 
-AAPL applies to:
+This license applies to:
+
 - The AKIBA-Alignment Protocol  
-- A-CRA Model  
-- Frontline Dancers / Shadow Layers  
-- Layer architectures, diagrams, and theoretical descriptions  
-- Persona systems, alignment structures, cultural rhythm models  
-- All narrative, research, and technical documents created by Kuzira-No12  
+- A-CRA Model (Autonomous Cultural Resonance Alignment)  
+- Structural layer models (Frontline / Shadow Layers)  
+- Design documents, diagrams, persona/interaction frameworks  
+- Theoretical and behavioral specifications  
+- All original materials in this repository  
+(excluding components already licensed under MIT/Apache/WTFPL)
 
-This license does **NOT** replace third-party open-source licenses contained in  
-`LICENSE_OPEN_SOURCE.md` (MIT / Apache 2.0 / WTFPL).  
-Those licenses continue to apply to their respective components.
+AAPL provides **free, perpetual, worldwide, non-commercial usage**, while  
+restricting all commercial use unless a separate paid agreement is executed.
 
 ---
 
 ## 1. Definitions
 
 ### “Work”
-All original content, designs, theories, layer models, documents, terminology,  
-and structures created by **Kuzira-No12** related to the AKIBA-Alignment Protocol.
+Refers to all original content of the AKIBA-Alignment Protocol created by  
+**Kuzira-No12**, including all documents, models, diagrams, and structures.
 
 ### “Non-Commercial Use”
-Use that produces **no direct or indirect profit**, including:
-- Personal research or hobby projects  
-- Academic study and non-profit educational use  
+Use with **no direct or indirect financial benefit**, including:
+- Personal study  
+- Academic research  
+- Hobby use  
 - Non-monetized open-source contributions  
-- Purely private experiments or tools  
+- Private/internal educational use
 
 ### “Commercial Use”
-Any use involving **profit**, directly or indirectly, including:
-- Paid software, SaaS, apps, enterprise systems  
+Any usage intended to produce revenue, directly or indirectly, including:
+- Paid apps, SaaS, AI tools  
 - Corporate AI deployments  
-- Monetized YouTube / VTuber / streaming content  
-- AI service operation with ads or revenue  
-- Training fine-tuned models for commercial use  
-- Paid consulting, R&D, or product integration  
-- Books, media, or publications sold for revenue  
+- Monetized LLM training or inference  
+- Paid books, online courses, videos, streams  
+- Advertisement-supported content  
+- Product integration or commercial services
 
 ---
 
 ## 2. Non-Commercial License Grant
 
 You are granted a **perpetual, worldwide, royalty-free, non-exclusive license**  
-to use, reproduce, modify, and distribute the Work **for non-commercial use  
-only**, under the following conditions:
+to use, reproduce, modify, and distribute the Work **for non-commercial  
+purposes only**, provided the following conditions are met:
 
-1. Attribution must be preserved:  
-   `© 2025 Kuzira-No12 – AKIBA-Alignment Protocol`
+1. Attribution is required:  
+   `© 2025 Kuzira-No12 — AKIBA-Alignment Protocol (A-CRA Model)`
 
-2. You may not claim authorship of the Work.
+2. You may not misrepresent authorship or claim the Work as your own.
 
-3. You may not use the Work in any revenue-generating system  
-   (including ad-supported tools or AI outputs used commercially).
+3. You may not use the Work to train or operate **commercial AI systems**  
+   or models generating monetized output.
 
-4. You must not remove, alter, or obscure this license.
+4. You may not remove or alter this license.
 
-Non-commercial use does **not** require permission.
+5. Any derivative work must remain under this same non-commercial license.
 
----
-
-## 3. Commercial License (Paid License Required)
-
-Commercial use is **NOT permitted** without a paid commercial license agreement  
-issued directly by **Kuzira-No12**.
-
-To apply:
-- Open a GitHub Issue with the title  
-  **“Commercial License Request”**  
-- Private communication will follow
-
-Commercial terms may include:
-- One-time fee / annual fee  
-- Revenue-sharing model  
-- Corporate tier licensing  
-- Custom terms or consulting support  
-
-Without a signed agreement, **all commercial use is prohibited**.
+Non-commercial use is freely permitted without requesting permission.
 
 ---
 
-## 4. Prohibited Uses (Without Paid License)
+## 3. Commercial Use
 
-The following actions are forbidden without a signed commercial contract:
+Commercial use is **NOT permitted** under AAPL.
 
-- Use in any monetized or revenue-producing software  
-- Use in corporate internal AI or service systems  
-- Fine-tuning or training a commercial LLM  
-- Use in commercial apps, bots, tools, or SaaS  
-- YouTube, VTuber, or streaming monetization using the Protocol  
-- Publishing paid books or media derived from the Work  
-- Selling derivative content or products  
-- Reselling or sublicensing the Protocol  
+To obtain commercial rights, a separate paid agreement is required with  
+the Author (**Kuzira-No12**).
 
-Any unlicensed commercial use results in immediate license termination.
+### Contact for Commercial License Requests
+Submit a GitHub Issue titled:  
+**“Commercial License Request”**
+
+Private communication will follow.
+
+No commercial right exists until a signed agreement is completed.
 
 ---
 
-## 5. Disclaimer of Warranty
+## 4. Prohibited Actions (without commercial license)
 
-The Work is provided **“AS IS”**, without warranty of any kind.  
-The Author is not liable for any damages, losses, or claims arising from  
-use of the Work.
+The following actions are strictly prohibited under AAPL:
+
+- Use in paid apps, SaaS, or enterprise software  
+- Use within corporate AI workflows or systems  
+- Training commercial LLMs  
+- Use within monetized content (books, videos, lectures, etc.)  
+- Redistributing derivative works for profit  
+- Any direct or indirect monetization
+
+---
+
+## 5. Warranty Disclaimer
+
+The Work is provided **“AS IS,” without warranty of any kind**, express or implied.
+
+The Author is not liable for any damages arising from the use of the Work.
 
 ---
 
 ## 6. Governing Law
 
-This license is governed by the laws of **Japan**.  
-All disputes shall fall under the exclusive jurisdiction of courts in **Tokyo**.
+This license is governed by **the laws of Japan**.  
+Any disputes will be handled under the jurisdiction of Tokyo, Japan.
 
 ---
 
-## END OF OFFICIAL ENGLISH TEXT
-------------------------------------------------------------
 # Japanese Translation (参考訳・法的効力なし)
-------------------------------------------------------------
 
-以下は**参考訳**であり、法的効力を持つのは**英語版のみ**です。
+以下は理解補助のための参考訳であり、  
+法的効力は英語版のみが持ちます。
+
+---
 
 # AKIBA-Alignment Protocol ライセンス（AAPL）
-バージョン 1.0 – 2025  
-日本語参考訳（効力なし）
+# Version 1.0 — 日本語参考訳
 
-AAPL は以下の二本立てのライセンス体系です：
-- **非商用利用：完全無料**  
-- **商用利用：有償契約が必須**
-
-AAPL が対象とする範囲：
-- AKIBA-Alignment Protocol  
-- A-CRA モデル  
-- Frontline Dancers / Shadow Layers  
-- レイヤー構造・図・技術仕様  
-- AIペルソナ体系・文化リズムモデル  
-- 上記に関連する文書一式  
-
-MIT / Apache / WTFPL の OSS 部分のライセンスはそのまま有効です。  
-AAPL は「AKIBA 特有の内容」に適用されます。
-
----
+AAPL は **非商用利用を無料で許可** し、  
+**商用利用には別途契約が必要** であることを定めたライセンスです。
 
 ## 1. 定義
 
 ### 「本作（Work）」
-Kuzira-No12 が作成した AKIBA-Alignment Protocol 関連の全オリジナル内容。
+Kuzira-No12 による AKIBA-Alignment Protocol の独自内容全般。
 
 ### 「非商用利用」
-収益を一切得ない利用（個人研究・趣味・教育・非営利OSSなど）。
+収益につながらない利用  
+（個人研究・趣味・学術・非収益OSS・内部教育など）
 
 ### 「商用利用」
-利益を伴う利用全般（企業運用・AI商用・書籍販売・広告収益など）。
+収益を目的とした一切の利用  
+（企業導入・有料アプリ・収益動画など）
 
 ---
 
-## 2. 非商用ライセンス
+## 2. 非商用利用の許可
 
-以下の条件を守れば、  
-**無料／無期限／世界中で** 非商用利用できます：
+以下の条件を満たす限り、非商用利用は  
+**無料・無期限・全世界で許可** されます：
 
-1. 著作権表示を残す  
-   `© 2025 Kuzira-No12 – AKIBA-Alignment Protocol`
-
-2. 作者を偽らない
-
-3. 商用AIや収益事業に使わない
-
-4. ライセンスを削除・改変しない
-
-非商用利用に申請は不要。
+1. 著作権表示を保持する  
+2. 作者を偽らない  
+3. 商用AIの学習・商用サービスで使わない  
+4. 本ライセンスを改変しない  
+5. 派生物も同じAAPLで公開する  
 
 ---
 
-## 3. 商用ライセンス（有償）
+## 3. 商用利用
 
-商用利用には **作者との有償契約** が必要です。
+商用利用は **無料ライセンスでは禁止** です。  
+使用する場合は別途商用契約が必要になります。
 
-申請方法：
-- GitHub Issues で  
-  **“Commercial License Request”**  
-  と題して投稿（その後、非公開で連絡）
-
-契約モデル例：
-- 一括ライセンス  
-- 年額ライセンス  
-- 企業向けプラン  
-- 売上分配  
-- カスタム契約
-
-契約がない商用利用は **全面禁止**。
+商用利用申請：  
+GitHub Issues に **“Commercial License Request”** として投稿。
 
 ---
 
-## 4. 禁止事項（無許可の商用利用）
+## 4. 禁止事項（契約なしの場合）
 
-契約なしで以下は禁止：
-
-- 有料アプリ・SaaSへの利用  
-- 企業AIシステムでの利用  
-- 商用LLM学習に使用  
-- 収益化配信（YouTube・VTuber 等）  
-- 有料書籍・メディアへの使用  
-- 派生作品の販売  
-- サブライセンス販売  
-
-違反した場合、ライセンスは即時失効。
+- 有料サービスでの利用  
+- 企業のAIシステムでの利用  
+- 商用LLMの訓練  
+- 商品・書籍・動画などの収益化コンテンツで利用  
+- 派生物を販売する行為
 
 ---
 
 ## 5. 免責事項
-
-本作は「現状のまま」提供され、  
-動作保証・賠償責任は負いません。
+本作は現状のまま提供され、作者は責任を負いません。
 
 ---
 
 ## 6. 準拠法
+本ライセンスは **日本法準拠** とします。
 
-本ライセンスは **日本法準拠**。  
-紛争は **東京地方裁判所** を専属管轄とします。
-
----
-
-# END OF JAPANESE REFERENCE TRANSLATION
 
